@@ -8,7 +8,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "19a0d15a0e1cb25db4bad3b97de2afce
 "assets/AssetManifest.json": "2379d026d55ec5bfb6ad4c1365d12a8e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "f9be6f0580d2b5e174221f6837614a49",
+"assets/NOTICES": "d14e94ab205dcf0de5264aff25b35994",
 "assets/packages/creatego_packages/assets/png/no_image.png": "8bc36b779f05e502267a1bb179ecf590",
 "assets/packages/creatego_packages/assets/svg/yoshop_logo.svg": "3198ef34881060c45b038f7ed22bdb9a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -26,9 +26,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "19a0d15a0e1cb25db4bad3b97de2afce
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8b4b6f0e277d805c7c073a06f8fb60a5",
-"/": "8b4b6f0e277d805c7c073a06f8fb60a5",
-"main.dart.js": "28d0db4d48731ead845bb725bdeb9d82",
+"index.html": "41e053a31c405bb19a3cd4fbe46b782e",
+"/": "41e053a31c405bb19a3cd4fbe46b782e",
+"main.dart.js": "935db965c8344d5688cf26a16fcbad29",
 "manifest.json": "7b6ef7e77789a35edfce6c5acb78f1f3",
 "version.json": "a1ba6776c6834fc3fa709b9eb75a613d"};
 // The application shell files that are downloaded before a service worker can
